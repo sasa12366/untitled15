@@ -6,7 +6,6 @@ public class Main {
         int a;
         a=input.nextInt();
         double b=input.nextDouble();
-        double c=a+b;
-        System.out.println(c);
+
     }
 }
